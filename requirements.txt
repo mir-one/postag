@@ -1,0 +1,4 @@
+pathlib
+python-crfsuite
+git+https://github.com/mir-one/syllab
+git+https://github.com/mir-one/word2tags
